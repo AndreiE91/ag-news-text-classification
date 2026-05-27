@@ -1,0 +1,1 @@
+NLP text classification project comparing TF-IDF + Logistic Regression and Transformer-based DistilBERT models for categorizing news articles using Python, Scikit-learn, and Hugging Face Transformers.
